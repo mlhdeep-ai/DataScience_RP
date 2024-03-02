@@ -1,0 +1,5 @@
+Regression Versus Classification Machine Learning: What’s the Difference?
+https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7
+
+What is the k-nearest neighbors (KNN) algorithm?
+https://www.ibm.com/topics/knn
