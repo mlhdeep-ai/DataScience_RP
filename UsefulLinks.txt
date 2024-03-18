@@ -6,3 +6,6 @@ https://www.ibm.com/topics/knn
 
 What Is a Regressor?
 https://www.baeldung.com/cs/regressor
+
+Image Filtering Using Convolution in OpenCV
+https://learnopencv.com/image-filtering-using-convolution-in-opencv/
